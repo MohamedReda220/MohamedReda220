@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Mohamed Reda!
 
-<a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> • <a href="https://github.com/MohamedReda220" target="_blank">GitHub</a>
+<a href="http://www.linkedin.com/in/mohammed-reda-4b3b59369" target="_blank">LinkedIn</a> • <a href="https://github.com/MohamedReda220" target="_blank">GitHub</a>
 
 ---
 
