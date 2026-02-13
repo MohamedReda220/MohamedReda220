@@ -32,13 +32,6 @@ I enjoy turning ideas into real projects using modern web technologies and conti
 * Figma (basic)
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedReda220\&show_icons=true)
-
----
-
 ### 🛠️ Featured Projects
 
 * 🌐 Landing Page Project
